@@ -1,5 +1,7 @@
 # mini_complete.nvim
 
+Built inside my www.github.com/Manny-S-04/NvimSetup config, the commit history is there.
+
 LSP completion in a **one-line bar at the bottom of the screen**, minibuffer / vertico style -
 instead of a popup that covers the code you're typing next to.
 
